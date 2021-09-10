@@ -1,1 +1,1 @@
-https://alexruus.github.io/AlexRuus/
+https://alexruus.github.io
